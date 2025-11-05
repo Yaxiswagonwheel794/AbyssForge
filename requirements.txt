@@ -1,0 +1,8 @@
+
+requests
+colorama
+pyfiglet
+exifread
+pycryptodome
+tqdm
+psutil
