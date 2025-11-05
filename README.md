@@ -65,4 +65,14 @@ python abyssforge.py
 
    
   ## **SCREENSHOTS**
-https://imgur.com/a/dmZyrsl
+
+
+## **LICENSE**
+
+MIT License
+
+Copyright (c) 2025 Vant4hex
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+[Full MIT text – copy from GitHub]
+
