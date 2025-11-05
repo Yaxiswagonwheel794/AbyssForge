@@ -37,7 +37,8 @@
 1. **Python 3.9+** → [Download](https://python.org/downloads) **(Check "Add to PATH")**
 2. **CMD as Admin**:
 
-**Requirements**
+3. **install dependencies**
+   
 pip install requests colorama pyfiglet exifread pycryptodome tqdm psutil
 
 3.**Run**
@@ -55,8 +56,13 @@ python abyssforge.py
 
 2. **install dependencies**
 
+   python3 -m venv venv
+
+   source venv/bin/activate
+
    pip3 install requests colorama pyfiglet exifread pycryptodome tqdm psutil
-3. **Clone & Run** 
+   
+4. **Clone & Run** 
    git clone https://github.com/Vant4hex/AbyssForge.git
 
    cd AbyssForge
