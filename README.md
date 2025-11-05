@@ -1,18 +1,15 @@
 # AbyssForge v2.1
-**🔥 MEGA PRO Multi-Tool – 40+ Real, Working Tools by @Vant4hex**
+**🔥 AbyssForge Multi-Tool – 40+ Tools by @Vant4hex**
 
-![Banner]https://github.com/loxy0dev/RedTiger-Tools/blob/main/Img/RedTiger-Banner.png
 
-> **Discord Nuker • Token Grabber • Webhook Spammer • OSINT Suite • Port Scanner • Fake CC Gen • AES Encryptor**  
-> **100% Real Output • Progress Bars • No Fakes • Menu Fixed**
+
+> **Discord Nuker • Token Grabber • Webhook Spammer • OSINT Suite • Port Scanner • Fake CC Gen • AES Encryptor and More**  
+
 
 ---
 
 ## 📋 Quick Stats
-- **Tools**: 40+  
-- **Sections**: 10  
-- **Lines**: 1000+  
-- **Threads**: 150+  
+- **Tools**: 40+   
 - **Log**: `abyssforge.log`
 
 ---
@@ -34,8 +31,30 @@
 
 ---
 
-
+## 💻 Installation
 
 ### **Windows**
 1. **Python 3.9+** → [Download](https://python.org/downloads) **(Check "Add to PATH")**
 2. **CMD as Admin**:
+
+**Requirements**
+pip install requests colorama pyfiglet exifread pycryptodome tqdm psutil
+
+3.**Run**
+
+git clone https://github.com/Vant4hex/AbyssForge.git
+cd AbyssForge
+python abyssforge.py
+
+### **Linux Users (Ubuntu/Debian/Kali)**
+
+1. **Update System**
+   sudo apt update && sudo apt install python3 python3-pip git -y
+
+2. **install dependencies**
+
+   pip3 install requests colorama pyfiglet exifread pycryptodome tqdm psutil
+3. **Clone & Run** 
+   git clone https://github.com/Vant4hex/AbyssForge.git
+cd AbyssForge
+python3 abyssforge.py   
