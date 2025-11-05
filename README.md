@@ -43,7 +43,9 @@ pip install requests colorama pyfiglet exifread pycryptodome tqdm psutil
 3.**Run**
 
 git clone https://github.com/Vant4hex/AbyssForge.git
+
 cd AbyssForge
+
 python abyssforge.py
 
 ### **Linux Users (Ubuntu/Debian/Kali)**
@@ -56,5 +58,11 @@ python abyssforge.py
    pip3 install requests colorama pyfiglet exifread pycryptodome tqdm psutil
 3. **Clone & Run** 
    git clone https://github.com/Vant4hex/AbyssForge.git
-cd AbyssForge
-python3 abyssforge.py   
+
+   cd AbyssForge
+
+   python3 abyssforge.py
+
+   
+  ## **SCREENSHOTS**
+https://imgur.com/a/dmZyrsl
