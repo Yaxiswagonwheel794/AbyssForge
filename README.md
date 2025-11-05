@@ -63,6 +63,16 @@ python abyssforge.py
 
    python3 abyssforge.py
 
+   ## ⚠️ Disclaimer
+**EDUCATIONAL ONLY** – Use on **your own systems** or with **permission**.  
+**No responsibility** for misuse. Discord/Roblox ToS apply.
+
+---
+
+## 📞 Support
+- **Telegram**: `@Vant4hex` (Premium + Support)  
+
+
    
   ## **SCREENSHOTS**
 
